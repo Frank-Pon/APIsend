@@ -71,6 +71,6 @@
 ![畫面截圖](screenshot/screen1.png)
 ![畫面截圖](screenshot/screen2.png)
 ![畫面截圖](screenshot/LOG.png)
-
 LOG的顯示是逐步顯示，推送進度到哪裡，就會同步顯示到哪裡
+
 ![畫面截圖](screenshot/powershell.png)
