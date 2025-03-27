@@ -12,6 +12,8 @@
 
     ．並可將結果儲存成 Excel
 
+    ．推送成功後發送郵件至相關人員信箱
+
 
 功能使用說明:
 
@@ -29,6 +31,7 @@
 
 ❌數量錯誤  前端無資料且推送按鈕反白無法使用
 
+最後推送成功後會自動發送信件至相關人員的信箱
 
 ✔️python 3.12 ✔️Tornado ✔️pyodbc ✔️cx_Oracle ✔️logging ✔️asyncio ✔️smtplib
 
@@ -68,4 +71,6 @@
 ![畫面截圖](screenshot/screen1.png)
 ![畫面截圖](screenshot/screen2.png)
 ![畫面截圖](screenshot/LOG.png)
+
+LOG的顯示是逐步顯示，推送進度到哪裡，就會同步顯示到哪裡
 ![畫面截圖](screenshot/powershell.png)
