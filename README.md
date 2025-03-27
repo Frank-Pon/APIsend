@@ -29,9 +29,9 @@
 
 可以推送資料至客戶端NetSuite伺服器及資料儲存成Excel
 
-❌數量錯誤  前端無資料且推送按鈕反白無法使用
-
 最後推送成功後會自動發送信件至相關人員的信箱
+
+❌數量錯誤  前端無資料且推送按鈕反白無法使用
 
 ✔️python 3.12 ✔️Tornado ✔️pyodbc ✔️cx_Oracle ✔️logging ✔️asyncio ✔️smtplib
 
